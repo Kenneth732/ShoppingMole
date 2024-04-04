@@ -61,3 +61,5 @@ function handleFetchData(query = '') {
   let handleArithmetic = (id) => {
     console.log("Calculate total price")
   }
+
+
